@@ -1,4 +1,4 @@
 ## Hi there 👋 Welcome to my GitHub!
-Former neuroscientist specialized in audition now turned data scientist. 🧠👂 -> 💻📈
+Neuroscientist with focus on audition 🧠👂 | Data Scientist 💻📈
 
-I am curious about science, statistics, machine learning and bioimaging.
+Curious about anything related to science, statistics, machine learning and bioimaging.
